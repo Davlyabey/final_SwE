@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPCGame .net game MOO ICT", "RPCGame .net game MOO ICT\RPCGame .net game MOO ICT.csproj", "{4BEBEFE6-BED3-426E-AA9F-3990D7A46AF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BEBEFE6-BED3-426E-AA9F-3990D7A46AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEBEFE6-BED3-426E-AA9F-3990D7A46AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEBEFE6-BED3-426E-AA9F-3990D7A46AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEBEFE6-BED3-426E-AA9F-3990D7A46AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3540621D-58D9-4C6D-81B4-6D4A8B2EC547}
+	EndGlobalSection
+EndGlobal
